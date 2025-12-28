@@ -542,7 +542,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </a>
             </div>
             <div class="share-button-top">
-                <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(`私の相性の良い観葉植物は【${bestMatch.name}】でした！🌿\nあなたも診断してみない？\n#植物診断 #観葉植物`)}&url=${encodeURIComponent('https://plantmatch.one/')}" target="_blank" rel="noopener" class="share-btn-top twitter-btn">
+                <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(`私の相性の良い観葉植物は【${bestMatch.name}】でした！🌿\nあなたも診断してみない？\n#植物診断 #観葉植物`)}&url=${encodeURIComponent('https://plantmatch.site/')}" target="_blank" rel="noopener" class="share-btn-top twitter-btn">
                     <span class="btn-icon">𝕏</span>
                     <span>結果をシェア</span>
                 </a>
@@ -612,7 +612,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     <div class="share-section">
                         <h4 class="share-title">📢 診断結果をシェア</h4>
-                        <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(`私の相性の良い観葉植物は【${bestMatch.name}】でした！🌿\nあなたも診断してみない？\n#植物診断 #観葉植物`)}&url=${encodeURIComponent('https://plantmatch.one/')}" target="_blank" rel="noopener" class="share-btn twitter-btn">
+                        <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(`私の相性の良い観葉植物は【${bestMatch.name}】でした！🌿\nあなたも診断してみない？\n#植物診断 #観葉植物`)}&url=${encodeURIComponent('https://plantmatch.site/')}" target="_blank" rel="noopener" class="share-btn twitter-btn">
                             <span class="btn-icon">𝕏</span>
                             <span>Post</span>
                         </a>
